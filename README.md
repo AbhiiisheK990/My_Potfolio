@@ -4,7 +4,7 @@
 Welcome to my personal portfolio website showcasing my work in **Data Analytics, Machine Learning, and AI Engineering**.
 
 🔗 **Live Portfolio:**
-https://yourusername.github.io/repo-name/
+
 
 ---
 
@@ -53,20 +53,26 @@ I specialize in transforming raw data into actionable insights using **Python, S
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python, SQL
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Libraries & ML:**
-Pandas, NumPy, Scikit-learn, TensorFlow
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-**Visualization:**
-Power BI, Tableau, Matplotlib, Seaborn
+### 📈 Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 
-**Tools & Platforms:**
-Streamlit, GitHub, Jupyter, VS Code
+### ⚙️ Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-**AI & Advanced:**
-LLMs, LangChain, NLP, AWS
+### 🤖 AI & Advanced
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 ---
 
