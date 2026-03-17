@@ -1,10 +1,10 @@
-![Portfolio Preview](image.png)
 # 🚀 Abhishek Hiremath — Data & AI Engineer Portfolio
 
 Welcome to my personal portfolio website showcasing my work in **Data Analytics, Machine Learning, and AI Engineering**.
 
 🔗 **Live Portfolio:**
 https://abhiiishek990.github.io/My_Potfolio/
+![Portfolio Preview](image.png)
 
 ---
 
